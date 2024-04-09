@@ -1,6 +1,6 @@
 # Youtube Video Downloader
 
-Este es un programa en Python que te permite descargar videos y audios de YouTube de manera sencilla y rápida. Este proyecto es un código modificado basado en el proyecto de [El Pingüino Tech](https://github.com/elpinguinotech) y desarrollado por [JP Manueco](https://github.com/jpcmanueco).
+Este es un programa en Python que te permite descargar videos y audios de YouTube de manera sencilla y rápida. Este proyecto es un código modificado basado en el proyecto de [El Pingüino Tech](https://github.com/elpinguinotech) y desarrollado por [Maalfer](https://github.com/Maalfer).
 
 ## Características 🎥🎵
 
